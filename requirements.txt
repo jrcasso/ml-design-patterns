@@ -1,0 +1,8 @@
+pandas
+tensorflow
+scikit-learn
+google
+ipykernel
+google.cloud
+google-cloud-bigquery
+google-colab
